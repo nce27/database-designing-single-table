@@ -66,6 +66,9 @@ CREATE TABLE students (
   student_cohort text
 );
 
+--paste query into Table plus
+--Refresh page
+
 ```
 
 ## 5. Create the table.
@@ -73,6 +76,5 @@ CREATE TABLE students (
 ```bash
 psql -h 127.0.0.1 database_name < albums_table.sql
 ```
-
 
 ---
